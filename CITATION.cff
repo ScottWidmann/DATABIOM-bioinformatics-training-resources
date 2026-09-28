@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite it as below."
+title: "DATABIOM Bioinformatics Training Resources"
+abstract: >
+  Curated, public-ready training materials from the RCMI-DATABIOM
+  bioinformatics training program: a curriculum map, an introduction to
+  bioinformatics and HPC/Linux, R fundamentals, GEO/SRA public-data
+  acquisition, bulk RNA-seq analysis, and single-cell RNA-seq analysis.
+type: dataset
+authors:
+  - family-names: Widmann
+    given-names: Scott
+date-released: 2025-09-28
+license:
+  - MIT
+  - CC-BY-4.0
+repository-code: "https://github.com/ScottWidmann/DATABIOM-bioinformatics-training-resources"
+keywords:
+  - bioinformatics
+  - RNA-seq
+  - single-cell RNA-seq
+  - training
+  - bioinformatics education
+  - HPC
+funding: >
+  Supported by the National Institutes of Health, National Institute on
+  Minority Health and Health Disparities, Research Centers in Minority
+  Institutions (RCMI) program, award 3U54MD007605-31S1.
