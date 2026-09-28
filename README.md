@@ -7,7 +7,7 @@ bioinformatics training program (December 2024 – May 2025), covering
 bioinformatics fundamentals, HPC/Linux, R, public-data acquisition, bulk
 RNA-seq, and single-cell RNA-seq analysis. This release is drawn from the
 original course materials, cleaned of institution-specific and third-party
-material — see `EXCLUSIONS.md` for exactly what was left out and why.
+material.
 
 ## Audience
 
@@ -86,9 +86,4 @@ Institutions (RCMI) program, award **3U54MD007605-31S1**.
 ## Data policy
 
 This repository does not redistribute third-party or controlled-access
-datasets. Where the original course used such data, this release instead
-gives download instructions and accession numbers — see
-`protocols/geo_sra_data_acquisition.md` and `resources.md`. No All of Us
-Research Program data or materials are included anywhere in this
-repository. See `EXCLUSIONS.md` for the full list of what was removed from
-the original course materials and why.
+datasets.
